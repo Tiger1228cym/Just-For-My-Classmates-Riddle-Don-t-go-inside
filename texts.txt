@@ -1,0 +1,11 @@
+说明：
+1. encode指使用encode.py
+2. decode指使用decode.py
+
+encode music.163.com
+decode '}\x82\x87\x88u\x80\x804d\x8d\x88|\x83\x82@4a}\x82yw\x86uz\x88@4bVh', use key 20
+decode and visit 'r~~z}D99kpnskx8xo~9z9:;@>:=>m:;@m;;olkpml?<?>::<?m=AA', use key 10
+
+thanks
+
+visit 1-3
